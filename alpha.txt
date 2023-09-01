@@ -34,7 +34,7 @@ function validate()
 if (userid==="drr"&& pasword==="gpt")
 
 {
- alert("login successfuli");
+ alert("login failldder");
 }
 else
 
